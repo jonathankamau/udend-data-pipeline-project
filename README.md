@@ -33,7 +33,7 @@ In order to have a copy of the project up and running locally, you will need to 
    - You can then go ahead and Trigger the DAG and sit back and watch as the magic happens.
 
 ## Built With
-- Python and Airflow.
+- Python and Apache Airflow.
 
 ## Authors
 - Jonathan Kamau - [Github Profile](https://github.com/jonathankamau)
